@@ -1,4 +1,4 @@
-- 👋 Hi there!, I’m @MADHURIMAPANIGRAHI
+- 👋 Hey!, I’m @MADHURIMAPANIGRAHI
 - 👀 I’m interested in Full-stack development and creating impactful projects.
 - 🌱 I’m currently learning backend development and building a Personal Portfolio Website.
 - 💞️ I’m looking to collaborate on beginner-friendly web development.
